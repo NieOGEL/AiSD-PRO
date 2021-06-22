@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__al_load_font przywołany w funkcji _main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__al_draw_text przywołany w funkcji _main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__al_init_font_addon przywołany w funkcji _main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__al_init_ttf_addon przywołany w funkcji _main
+C:\Users\majma\source\repos\AISD\Debug\AISD.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 4
