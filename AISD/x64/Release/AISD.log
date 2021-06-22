@@ -1,0 +1,40 @@
+﻿  main.c
+C:\Users\majma\source\repos\AISD\AISD\main.c(223,48): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(223,44): warning C4024: "zapis_wyb": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\majma\source\repos\AISD\AISD\main.c(223,54): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(223,50): warning C4024: "zapis_wyb": różne typy dla formalnego i rzeczywistego parametru 3
+C:\Users\majma\source\repos\AISD\AISD\main.c(224,49): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(224,45): warning C4024: "zapis_kop": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\majma\source\repos\AISD\AISD\main.c(224,55): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(224,51): warning C4024: "zapis_kop": różne typy dla formalnego i rzeczywistego parametru 3
+C:\Users\majma\source\repos\AISD\AISD\main.c(225,47): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(225,43): warning C4024: "czas_wyb": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\majma\source\repos\AISD\AISD\main.c(225,53): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(225,49): warning C4024: "czas_wyb": różne typy dla formalnego i rzeczywistego parametru 3
+C:\Users\majma\source\repos\AISD\AISD\main.c(226,48): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(226,44): warning C4024: "czas_kop": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\majma\source\repos\AISD\AISD\main.c(226,54): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\main.c(226,50): warning C4024: "czas_kop": różne typy dla formalnego i rzeczywistego parametru 3
+  p_por.c
+  p_wyb.c
+C:\Users\majma\source\repos\AISD\AISD\p_wyb.c(19,17): warning C4098: "p_wyb": funkcja "void" zwraca wartość
+C:\Users\majma\source\repos\AISD\AISD\p_wyb.c(26,23): warning C4098: "p_wyb": funkcja "void" zwraca wartość
+  s_kop.c
+C:\Users\majma\source\repos\AISD\AISD\s_kop.c(7,1): warning C4047: "inicjowanie": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_kop.c(60,1): warning C4047: "inicjowanie": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_kop.c(83,13): warning C4098: "czas_kop": funkcja "void" zwraca wartość
+  s_wyb.c
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(18,30): warning C4047: "=": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(20,33): warning C4047: "=": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(8,1): warning C4047: "inicjowanie": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(45,31): warning C4047: "<=": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(60,24): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(60,22): warning C4024: "los": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(56,1): warning C4047: "inicjowanie": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\majma\source\repos\AISD\AISD\s_wyb.c(82,13): warning C4098: "czas_wyb": funkcja "void" zwraca wartość
+  Trwa generowanie kodu
+  2 of 24 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  AISD.vcxproj -> C:\Users\majma\source\repos\AISD\x64\Release\AISD.exe
